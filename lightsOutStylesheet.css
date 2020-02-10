@@ -1,0 +1,43 @@
+* {
+	background-color: black;
+}
+h1 {
+	text-align: center;
+	color: #F4D03F;
+}
+h2 {
+	display: none;
+}
+#content {
+	width: 50%;
+	margin: auto;
+	max-width: 506px;
+	min-width: 506px;
+	max-height: 506px;
+	min-height: 506px;
+}
+td {
+	height: 100px;
+	width: 100px;
+	border: 1px solid black;
+}
+td, table, tr {
+	border-collapse: collapse;
+	background-color: #34495E;
+}
+.tableOn {
+	background-color: #F4D03F;
+}
+.done {
+	color: #34495E;
+}
+.congrats {
+	display: inherit;
+	text-align: center;
+	color: #34495E;
+}
+button {
+	background-color: grey;
+	border: 1px solid grey;
+	color: #E5E7E9;
+}
